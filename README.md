@@ -40,11 +40,11 @@ LipSyncAI is a powerful tool for transforming images and videos into realistic l
 
 ## 🎥 Input and Output Examples  
 
-| Example         | Screenshot/Link                                         | Description                                   |  
-|-----------------|----------------------------------------------------------|-----------------------------------------------|  
-| **Input Video** | <video width="320" height="240" controls><source src="Data/example_video_30sec.mp4" type="video/mp4">Your browser does not support the video tag.</video>  | The original video used for dubbing.          |  
-| **Input Audio** | <audio controls><source src="Data/example_audio_30sec.mp3" type="audio/mp3">Your browser does not support the audio element.</audio>  | The audio file used to sync the lip movements.|  
-| **Dubbed Video**| <video width="320" height="240" controls><source src="Output/example_video_30sec_example_audio_30sec.mp4" type="video/mp4">Your browser does not support the video tag.</video> | The resulting video with lip-synced audio.    |  
+| Example         | Screenshot/Link                                   | Description                                   |  
+|------------------|--------------------------------------------------|-----------------------------------------------|  
+| **Input Video**  | ![Input Video](https://github.com/shubham-murtadak/LipSyncAI-Video-Dubbing-Lip-Syncing/blob/main/Data/example_video_30sec.mp4)      | The original video used for dubbing.         |  
+| **Input Audio**  | ![Input Audio](https://github.com/shubham-murtadak/LipSyncAI-Video-Dubbing-Lip-Syncing/blob/main/Data/example_audio_30sec.mp3)      | The audio file used to sync the lip movements.|  
+| **Dubbed Video** | ![Dubbed Video](https://github.com/shubham-murtadak/LipSyncAI-Video-Dubbing-Lip-Syncing/blob/main/Output/example_video_30sec_example_audio_30sec.mp4)    | The resulting video with lip-synced audio.   |  
 
 ---
 
